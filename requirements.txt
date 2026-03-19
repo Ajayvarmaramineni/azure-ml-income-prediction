@@ -1,0 +1,23 @@
+# Azure ML Adult Census Income Prediction
+# Python Dependencies
+
+# HTTP requests for API calls
+requests==2.31.0
+
+# Data manipulation and analysis (optional, for local data processing)
+pandas==2.0.3
+numpy==1.24.3
+
+# Visualization (optional, for analyzing predictions locally)
+matplotlib==3.7.2
+scikit-learn==1.3.0
+
+# Development tools (optional)
+python-dotenv==1.0.0  # For managing environment variables
+
+# Note: Azure ML SDK is NOT required to use the deployed web service
+# The deployed model is accessed via REST API, which only requires 'requests'
+#
+# If you want to use Azure ML SDK for programmatic access:
+# azureml-sdk==1.54.0
+# azureml-mlflow==1.54.0
