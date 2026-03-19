@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Azure ML](https://img.shields.io/badge/Azure%20ML-Studio-0078D4)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 # Adult Income Prediction - Azure ML Project
 
 A secure, production-ready Python project for testing predictions from a deployed Azure Machine Learning endpoint.
